@@ -1,0 +1,2 @@
+
+`tns run android`
